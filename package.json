@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/vlada2020/18_Progressive_Budget/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/vlada2020/18_Progressive_Budget",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.9.28",
